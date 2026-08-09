@@ -1,5 +1,5 @@
-title: "Jakhongir Saydaliev"
-url: "https://jakhongir0103.github.io"
+title: "Mukhammadali Sayfiddinov"
+url: "https://AlignedDragon.github.io"
 baseurl: ""
 
 markdown: kramdown
@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://jakhongir0103.github.io"
+footer_url: "https://AlignedDragon.github.io"
 footer_text: "End"
 
 sass:
@@ -20,5 +20,3 @@ nav:
    link: "/index"
  - name: "Blogs"
    link: "/blogs"
- - name: "CV"
-   link: "/cv.pdf"
